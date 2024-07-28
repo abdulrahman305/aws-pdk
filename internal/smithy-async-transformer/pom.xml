@@ -95,7 +95,7 @@
         <dependency>
             <groupId>software.amazon.smithy</groupId>
             <artifactId>smithy-aws-traits</artifactId>
-            <version>1.28.0</version>
+            <version>1.49.0</version>
         </dependency>
         <dependency>
             <groupId>software.amazon.smithy</groupId>
