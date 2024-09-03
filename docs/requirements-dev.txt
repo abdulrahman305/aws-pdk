@@ -1,6 +1,6 @@
 mkdocs~=1.4.3
 pygments>=2.12
 mkdocs-awesome-pages-plugin~=2.9.1
-mkdocs-material~=9.1.15
+mkdocs-material~=9.5.32
 mkdocs-redirects~=1.2.0
 mkdocs-git-revision-date-plugin~=0.3.2
