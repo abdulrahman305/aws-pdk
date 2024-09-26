@@ -105,7 +105,7 @@
         <dependency>
             <groupId>software.amazon.smithy</groupId>
             <artifactId>smithy-model</artifactId>
-            <version>1.50.0</version>
+            <version>1.51.0</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
